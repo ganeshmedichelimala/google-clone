@@ -1,0 +1,267 @@
+* {
+  background-color: #333;
+}
+
+/* ------header-------- */
+.header {
+  display: flex;
+  justify-content: flex-end;
+  gap: 20px;
+  margin-top: 20px;
+}
+.profile-img {
+  height: 28px;
+  width: 28px;
+  border-radius: 50%;
+}
+.gmail-link {
+  text-decoration: none;
+  color: #fff;
+}
+.images-link {
+  text-decoration: none;
+  color: #fff;
+}
+
+/* ------Google------- */
+
+.google-heading {
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  font-size: 100px;
+  letter-spacing: 2px;
+  margin-top: 100px;
+}
+
+/*--------- search-bar-------- */
+.searchbar {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+.search-box {
+  color: black;
+}
+.search-box {
+  color: #fff;
+  background: #fff;
+  /* border-radius: 50%; */
+  width: 500px;
+  height: 35px;
+  border-radius: 100px;
+  margin-top: -20px;
+  border: none;
+}
+
+/* --------shortcuts--------- */
+.shortcuts-line-1 {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+/* ---youtube---- */
+.youtube-logo {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  box-shadow: 0 0 0 5px black;
+}
+.youtube-link {
+  display: flex;
+  justify-content: center;
+}
+
+.youtube {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90px;
+  width: 90px;
+  gap: 8px;
+  border-radius: 5px;
+}
+
+.youtube:link,
+.youtube:visited {
+  background-color: #333;
+}
+.youtube:hover,
+.youtube:active {
+  background-color: #444;
+}
+.youtube--link {
+  text-decoration: none;
+  color: #fff;
+  font-size: 13px;
+}
+.youtube-shortcut {
+  width: 100px;
+  height: 100px;
+}
+
+/* -----WHATSAPP----- */
+.whatsapp-logo {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  box-shadow: 0 0 0 5px black;
+}
+.whatsapp-link {
+  display: flex;
+  justify-content: center;
+}
+
+.whatsapp {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90px;
+  width: 90px;
+  gap: 8px;
+  border-radius: 5px;
+}
+
+.whatsapp:link,
+.whatsapp:visited {
+  background-color: #333;
+}
+.whatsapp:hover,
+.whatsapp:active {
+  background-color: #444;
+}
+.whatsapp--link {
+  text-decoration: none;
+  color: #fff;
+  font-size: 13px;
+}
+.whatsapp-shortcut {
+  width: 100px;
+  height: 100px;
+}
+
+/* -----HOTSTAR------ */
+.hotstar-logo {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  box-shadow: 0 0 0 5px black;
+}
+.hotstar-link {
+  display: flex;
+  justify-content: center;
+}
+
+.hotstar {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90px;
+  width: 90px;
+  gap: 8px;
+  border-radius: 5px;
+}
+
+.hotstar:link,
+.hotstar:visited {
+  background-color: #333;
+}
+.hotstar:hover,
+.hotstar:active {
+  background-color: #444;
+}
+.hotstar--link {
+  text-decoration: none;
+  color: #fff;
+  font-size: 13px;
+}
+.hotstar-shortcut {
+  width: 100px;
+  height: 100px;
+}
+
+/* -----UDEMY----- */
+.udemy-logo {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  box-shadow: 0 0 0 5px black;
+}
+.udemy-link {
+  display: flex;
+  justify-content: center;
+}
+
+.udemy {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90px;
+  width: 90px;
+  gap: 8px;
+  border-radius: 5px;
+}
+
+.udemy:link,
+.udemy:visited {
+  background-color: #333;
+}
+.udemy:hover,
+.udemy:active {
+  background-color: #444;
+}
+.udemy--link {
+  text-decoration: none;
+  color: #fff;
+  font-size: 13px;
+}
+.udemy-shortcut {
+  width: 100px;
+  height: 100px;
+}
+
+/* ------SONY----- */
+
+.sony-logo {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  box-shadow: 0 0 0 5px black;
+}
+.sony-link {
+  display: flex;
+  justify-content: center;
+}
+
+.sony {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 90px;
+  width: 90px;
+  gap: 8px;
+  border-radius: 5px;
+}
+
+.sony:link,
+.sony:visited {
+  background-color: #333;
+}
+.sony:hover,
+.sony:active {
+  background-color: #444;
+}
+.sony--link {
+  text-decoration: none;
+  color: #fff;
+  font-size: 13px;
+}
+.sony-shortcut {
+  width: 100px;
+  height: 100px;
+}
